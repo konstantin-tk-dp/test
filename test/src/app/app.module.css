@@ -1,0 +1,8 @@
+.main {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.main > div {
+    padding-top: 20px;
+}
